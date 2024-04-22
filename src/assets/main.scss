@@ -1,0 +1,8 @@
+@import './base.scss';
+// required to get $orange variable
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import './_color_mode_blue';
+
+// set changes
+@import "bootstrap";
